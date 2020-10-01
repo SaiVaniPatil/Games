@@ -16,8 +16,9 @@ class Tictactoe {
     private String regex = "\\s{3}";
 
     public Tictactoe() {
-        board = new String[ROWS][COLS];
+        board = new String[ROWS][COLS];//creating a 2d string consist of rows and columns
     }
+	//initialize the values on board
 
     public void initializeBoard() {
         for (int i = 0; i < ROWS;

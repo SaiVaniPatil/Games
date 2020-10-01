@@ -1,2 +1,3 @@
 # Games
-Implementing different games using python and java
+These files include games that are made by using simple concept of python and java.
+
